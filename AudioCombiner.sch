@@ -19,7 +19,7 @@ U 1 1 5DED96A9
 P 800 850
 F 0 "J1" H 757 1175 50  0000 C CNN
 F 1 "Primary" H 757 1084 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 800 850 50  0001 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_PJ320E_Horizontal" H 800 850 50  0001 C CNN
 F 3 "~" H 800 850 50  0001 C CNN
 	1    800  850 
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5DEDA336
 P 800 2250
 F 0 "J3" H 757 2575 50  0000 C CNN
 F 1 "Headphones" H 757 2484 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 800 2250 50  0001 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_PJ320E_Horizontal" H 800 2250 50  0001 C CNN
 F 3 "~" H 800 2250 50  0001 C CNN
 	1    800  2250
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 5DEE2C31
 P 800 1550
 F 0 "J2" H 757 1875 50  0000 C CNN
 F 1 "Secondary" H 757 1784 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 800 1550 50  0001 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_PJ320E_Horizontal" H 800 1550 50  0001 C CNN
 F 3 "~" H 800 1550 50  0001 C CNN
 	1    800  1550
 	1    0    0    -1  
